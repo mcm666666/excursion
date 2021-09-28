@@ -30,9 +30,10 @@ header--sub-header {
     color: aquamarine;
 }
 
+/* Footer */
 
-
-h4 {
+.footer--copyright {
     font-size: 21px;
     color: gray;
+    text-align:right;
 }
